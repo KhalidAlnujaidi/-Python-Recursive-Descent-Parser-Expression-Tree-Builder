@@ -6,6 +6,6 @@ Explore the implementation of a recursive descent parser for arithmetic expressi
 
 
 
-### Srouces
+### Sources
 
 https://rockie-yang.gitbooks.io/python-cookbook/content/ch2/simple_parser.html 
